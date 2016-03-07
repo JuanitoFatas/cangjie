@@ -9,7 +9,7 @@ Gem::Specification.new do |spec|
   spec.authors       = ["JuanitoFatas"]
   spec.email         = ["katehuang0320@gmail.com"]
 
-  spec.summary       = "Cangjie invented Chinese characters. I invite him to help us recognize Chinese to RubyGems world."
+  spec.summary       = "Cangjie invented Chinese characters. I invite him to help us recognize Chinese in RubyGems world."
   spec.description   = spec.summary
   spec.homepage      = "https://github.com/JuanitoFatas/cangjie"
   spec.license       = "UNLICENSE"

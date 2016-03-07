@@ -2,7 +2,7 @@
 
 [![https://commons.wikimedia.org/wiki/File:Cangjie2.jpg#/media/File:Cangjie2.jpg](https://upload.wikimedia.org/wikipedia/commons/5/53/Cangjie2.jpg)](https://en.wikipedia.org/wiki/Cangjie)
 
-Cangjie invented Chinese characters. I invite him to help us recognize Chinese to RubyGems world.
+Cangjie invented Chinese characters. I invite him to help us recognize Chinese in RubyGems world.
 
 ## Installation
 
