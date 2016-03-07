@@ -1,5 +1,8 @@
 # Cangjie
 
+[![Gem Version](https://badge.fury.io/rb/cangjie.svg)](https://badge.fury.io/rb/cangjie)
+[![Build Status](https://travis-ci.org/JuanitoFatas/cangjie.svg?branch=master)](https://travis-ci.org/JuanitoFatas/cangjie)
+
 [![https://commons.wikimedia.org/wiki/File:Cangjie2.jpg#/media/File:Cangjie2.jpg](https://upload.wikimedia.org/wikipedia/commons/5/53/Cangjie2.jpg)](https://en.wikipedia.org/wiki/Cangjie)
 
 Cangjie invented Chinese characters. I invite him to help us recognize Chinese in RubyGems world.
